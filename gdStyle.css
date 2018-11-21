@@ -1,0 +1,234 @@
+h1{
+    color: black;
+}
+/* -------------header ^ ----------------- */
+
+body {
+    
+}
+
+td, th {
+    padding: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+th {
+    font-weight: bold;
+    text-align: left;
+}
+
+tbody tr:hover{
+    background:rgb(137, 137, 138);
+      color:#FFFFFF;
+    }
+
+tr:nth-child(2),
+.green{
+  background: forestgreen;
+}
+tr:nth-child(3),
+.green{
+  background: rgb(247, 247, 93);
+}
+tr:nth-child(4),
+.green{
+  background: forestgreen;
+}
+tr:nth-child(5),
+.green{
+  background: forestgreen;
+}
+tr:nth-child(6),
+.green{
+  background: forestgreen;
+}
+tr:nth-child(7),
+.green{
+  background: forestgreen;
+}
+tr:nth-child(8),
+.green{
+  background: rgb(247, 247, 93);
+}
+tr:nth-child(9),
+.green{
+  background: rgb(247, 247, 93);
+}
+tr:nth-child(10),
+.green{
+  background: rgb(247, 247, 93);
+}
+tr:nth-child(11),
+.green{
+  background: red;
+}
+tr:nth-child(12),
+.green{
+  background: red;
+}
+tr:nth-child(13),
+.green{
+  background: forestgreen;
+}
+tr:nth-child(14),
+.green{
+  background:forestgreen;
+}
+tr:nth-child(15),
+.green{
+  background: forestgreen;
+}
+tr:nth-child(16),
+.green{
+  background: forestgreen;
+}
+tr:nth-child(17),
+.green{
+  background: rgb(247, 247, 93);
+}
+tr:nth-child(18),
+.green{
+  background: rgb(247, 247, 93);
+}
+tr:nth-child(19),
+.green{
+  background: red;
+}
+tr:nth-child(20),
+.green{
+  background: forestgreen;
+}
+tr:nth-child(21),
+.green{
+  background: rgb(247, 247, 93);
+}
+tr:nth-child(22),
+.green{
+  background: red;
+}
+tr:nth-child(23),
+.green{
+    color:white;
+    background:black;
+}
+tr:nth-child(24),
+.green{
+  background: red;
+}
+tr:nth-child(25),
+.green{
+  background: red;
+}
+tr:nth-child(26),
+.green{
+  background: rgb(247, 247, 93);
+}
+tr:nth-child(27),
+.green{
+  background: red;
+}
+tr:nth-child(28),
+.green{
+    color:white;
+    background:black;
+}
+tr:nth-child(29),
+.green{
+  background: red;
+}
+tr:nth-child(30),
+.green{
+  background: red;
+}
+tr:nth-child(31),
+.green{
+    color:white;
+    background:black;
+}
+tr:nth-child(32),
+.green{
+  background:rgb(247, 247, 93);
+}
+tr:nth-child(33),
+.green{
+  background: rgb(247, 247, 93);
+}
+tr:nth-child(34),
+.green{
+  background: rgb(247, 247, 93);
+}
+tr:nth-child(35),
+.green{
+  background: red;
+}
+tr:nth-child(36),
+.green{
+  background: red;
+}
+tr:nth-child(37),
+.green{
+  background: red;
+}
+tr:nth-child(38),
+.green{
+    color:white;
+    background:black;
+}
+tr:nth-child(39),
+.green{
+    color:white;
+    background:black;
+}
+tr:nth-child(40),
+.green{
+  background: red;
+}
+tr:nth-child(41),
+.green{
+  background: red;
+}
+tr:nth-child(42),
+.green{
+    color:white;
+  background:black;
+}
+tr:nth-child(43),
+.green{
+  background: red;
+}
+tr:nth-child(44),
+.green{
+    color:white;
+    background:black;
+}
+tr:nth-child(45),
+.green{
+  background: red;
+}
+tr:nth-child(46),
+.green{
+  background: red;
+}
+tr:nth-child(47),
+.green{
+    color:white;
+    background:black;
+}
+tr:nth-child(48),
+.green{
+  background: red;
+}
+tr:nth-child(49),
+.green{
+    color:white;
+    background:black;
+}
+tr:nth-child(50),
+.green{
+  background: red;
+}
+tr:nth-child(51),
+.green{
+    color:white;
+    background:black;
+}
